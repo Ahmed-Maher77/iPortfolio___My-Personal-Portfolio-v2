@@ -67,7 +67,7 @@ A professional and responsive portfolio website showcasing Ahmed Maher's web dev
 ## 👀 Website Preview
 
 <a href="https://ahmed-maher77.github.io/iPortfolio___My-Personal-Portfolio-v2/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/63e93514-d847-427c-8402-e6954bb23035" alt="website preview - UI Mockup" width="400">
 </a>
 
 ---
@@ -76,8 +76,8 @@ A professional and responsive portfolio website showcasing Ahmed Maher's web dev
 
 ```bash
 # Clone the repository
-git clone https://github.com/ahmedmaheralgohary/portfolio.git
-cd portfolio
+git clone https://github.com/Ahmed-Maher77/iPortfolio___My-Personal-Portfolio-v2.git
+cd iPortfolio___My-Personal-Portfolio-v2
 
 # Open index.html in your browser
 ```
